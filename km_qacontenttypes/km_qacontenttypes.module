@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Q&A Content Types feature.
+ */
+
+include_once('km_qacontenttypes.features.inc');
