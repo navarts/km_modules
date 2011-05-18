@@ -1,0 +1,6 @@
+name = km_qa export module
+description = Export objects from CTools
+dependencies[] = context
+dependencies[] = views
+package = Chaos tool suite
+core = 7.x
